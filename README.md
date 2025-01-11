@@ -2,6 +2,6 @@
 - 👀 I’m interested in documenting my projects.
 - 🌱 I’m currently teaching myself through research & developement.
 - 💞️ I’m looking to collaborate on providing real world solutions.
-- 📫 How to reach me Instagram @iambigmass
+- 📫 How to reach me ---> Instagram @iambigmass
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still don't get how git works.
